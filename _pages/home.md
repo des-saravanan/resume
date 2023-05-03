@@ -17,14 +17,23 @@ header:
     cta_label: "Download Resume"
     cta_url: "/des-resume.pdf"
 mytimeline:
-    - title: "Director/Senior Engineering Manager, Intel Corporation, SantaClara, CA"
+    - title: "General Manager/Sr.Director, VMware Center of Excellencer, Intel Corporation, Santa Clara, CA"
+      desc: "Lead the VMware Center of Excellence (VCE) for Intel with the
+            responsibility for strategy, direction, planning, development, and delivery of
+            VMware Software stack components for Intel products"
+      img_alt: "Intel"
+      readmore: "/experience/intel-vce/"
+      fa-icon: group
+      date: "Mar 17 - Present"
+
+    - title: "Director/Senior Engineering Manager, Intel Corporation, Santa Clara, CA"
       desc: "Lead the Android Runtime (ART) Center of Excellence for Intel with
             the reponsibility for strategy, direction, planning, development and
             delivery of Android Runtime and User Experience for Intel"
       img_alt: "Intel"
-      readmore: "/experience/intel/"
+      readmore: "/experience/intel-art/"
       fa-icon: group
-      date: "Dec 10 - Present"
+      date: "Dec 10 - Mar 17"
 
     - title: "Independent Consultant"
       desc: "took personal time off to be with family in India to address a
